@@ -1,0 +1,117 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: top;
+}
+
+/* navbar */
+
+nav {
+  margin-top: 48px;
+  /* margin-bottom: 58px; */
+}
+
+.navbrn {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 44px;
+}
+
+.imgNav {
+  width: 50px;
+  height: 50px;
+}
+
+/* about */
+
+.about {
+  margin-top: 160px;
+  font-family: "Rancho";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 50px;
+  margin-bottom: 70px;
+}
+
+.garis {
+  border: 2px solid white;
+  margin-bottom: 55px;
+  box-sizing: border-box;
+}
+
+/* list pertama */
+.list {
+  box-sizing: border-box;
+  padding: 36px 60px;
+  border-radius: 10px;
+}
+
+.list1 {
+  border: 5px solid #ef6807;
+}
+
+.list2 {
+  border: 5px solid #2b57a7;
+}
+
+.rowlist {
+  padding: 0 12px;
+}
+
+.listbut {
+  margin-bottom: 30px;
+}
+
+.list .p-1,
+.list ul li {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+  color: #2b57a7;
+}
+
+.list p,
+.list ol li {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+  color: #ef6807;
+}
+
+/* bottom */
+.bootombtn {
+  background: #ef6807;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  padding: 18px;
+
+  color: #ffffff;
+  margin-bottom: 55px;
+}
+
+.grsbwh {
+  margin-bottom: 35px;
+}
+
+footer {
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+  text-align: center;
+  margin-bottom: 55px;
+
+  color: #ffffff;
+}
